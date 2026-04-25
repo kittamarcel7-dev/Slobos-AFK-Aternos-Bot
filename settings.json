@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "KITKATEKBOT67",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "paluszkipl..aternos.me",
+    "ip": "paluszkipl.aternos.me",
     "port": 35521,
     "version": "",
     "try-creative": false
